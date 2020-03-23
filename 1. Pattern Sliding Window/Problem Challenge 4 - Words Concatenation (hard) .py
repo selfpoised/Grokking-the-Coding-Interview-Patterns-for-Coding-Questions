@@ -1,3 +1,4 @@
+'''
 Problem Challenge 4
 
 Words Concatenation (hard) 
@@ -14,6 +15,7 @@ Example 2:
 Input: String="catcatfoxfox", Words=["cat", "fox"]
 Output: [3]
 Explanation: The only substring containing both the words is "catfox".
+'''
 
 #mycode
 def find_word_concatenation(str, words):
