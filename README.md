@@ -21,3 +21,6 @@
 - Triplet Sum Close to Target (medium)
 - Triplets with Smaller Sum (medium)
 - Subarrays with Product Less than a Target (medium)
+- Problem Challenge 1 - Quadruple Sum to Target (medium) 
+- Problem Challenge 3 - Minimum Window Sort (medium)
+- Problem Challenge 2 - Comparing Strings containing Backspaces (medium)
