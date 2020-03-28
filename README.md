@@ -7,10 +7,10 @@
 - Fruits into Baskets (medium)
 - No-repeat Substring (hard)
 - Longest Substring with Same Letters after Replacement (hard)
-- Longest Subarray with Ones after Replacement (hard)
-- Problem Challenge 1 - Permutation in a String (hard) 
+- Longest Subarray with Ones after Replacement (hard) *
+- Problem Challenge 1 - Permutation in a String (hard) *
 - Problem Challenge 2 - String Anagrams (hard)
-- Problem Challenge 3 - Smallest Window containing Substring (hard)  
+- Problem Challenge 3 - Smallest Window containing Substring (hard) *
 - Problem Challenge 4 - Words Concatenation (hard) 
 
 ## 2. Pattern: Two Pointers
@@ -20,7 +20,15 @@
 - Triplet Sum to Zero (medium)
 - Triplet Sum Close to Target (medium)
 - Triplets with Smaller Sum (medium)
-- Subarrays with Product Less than a Target (medium)
-- Problem Challenge 1 - Quadruple Sum to Target (medium) 
-- Problem Challenge 3 - Minimum Window Sort (medium)
+- Subarrays with Product Less than a Target (medium) *
+- Problem Challenge 1 - Quadruple Sum to Target (medium) *
 - Problem Challenge 2 - Comparing Strings containing Backspaces (medium)
+- Problem Challenge 3 - Minimum Window Sort (medium) *
+
+
+## 3. Pattern Fast & Slow pointers
+- LinkedList Cycle (easy)
+- Middle of the LinkedList (easy)
+- Start of LinkedList Cycle (medium) *
+- Happy Number (medium) * 
+-
