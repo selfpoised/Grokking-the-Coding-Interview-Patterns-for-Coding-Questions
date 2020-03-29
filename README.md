@@ -37,4 +37,4 @@
 
 ## 4. Pattern: Merge Intervals
 - Merge Intervals (medium)
-- Insert Interval (medium)
+- Insert Interval (medium) *
