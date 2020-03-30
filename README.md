@@ -38,3 +38,5 @@
 ## 4. Pattern: Merge Intervals
 - Merge Intervals (medium)
 - Insert Interval (medium) *
+- Intervals Intersection (medium)
+- Conflicting Appointments (medium)
