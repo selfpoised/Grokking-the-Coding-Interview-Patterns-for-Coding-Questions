@@ -40,3 +40,9 @@
 - Insert Interval (medium) *
 - Intervals Intersection (medium)
 - Conflicting Appointments (medium)
+- Problem Challenge 1 - Minimum Meeting Rooms (hard) *
+- Problem Challenge 2 - Maximum CPU Load (hard)
+- Problem Challenge 3 - Employee Free Time (hard) *
+
+## 5.Pattern: Cyclic Sort
+- Cyclic Sort (easy)
