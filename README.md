@@ -46,3 +46,10 @@
 
 ## 5.Pattern: Cyclic Sort
 - Cyclic Sort (easy)
+- Find the Missing Number (easy)
+- Find all Missing Numbers (easy)
+- Find the Duplicate Number (easy)
+- Find all Duplicate Numbers (easy)
+- Problem Challenge 1 - Find the Corrupt Pair (easy)
+- Problem Challenge 2 - Find the Smallest Missing Positive Number (medium)
+- Problem Challenge 3 - Find the First K Missing Positive Numbers (hard) *
