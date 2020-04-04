@@ -71,3 +71,6 @@
 - Connect Level Order Siblings (medium)
 - Problem Challenge 1 - Connect All Level Order Siblings (medium)
 - Problem Challenge 2 - Right View of a Binary Tree (easy) 
+
+## 8. Pattern: Tree Depth First Search
+- Binary Tree Path Sum (easy)
