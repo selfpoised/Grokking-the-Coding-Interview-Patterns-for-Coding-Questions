@@ -74,3 +74,9 @@
 
 ## 8. Pattern: Tree Depth First Search
 - Binary Tree Path Sum (easy)
+- All Paths for a Sum (medium) *
+- Sum of Path Numbers (medium)
+- Path With Given Sequence (medium) *
+- Count Paths for a Sum (medium)
+- Problem Challenge 1 - Tree Diameter (medium) *
+- Problem Challenge 2 - Path with Maximum Sum (hard) *
