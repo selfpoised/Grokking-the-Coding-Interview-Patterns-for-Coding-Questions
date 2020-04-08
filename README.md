@@ -80,3 +80,6 @@
 - Count Paths for a Sum (medium)
 - Problem Challenge 1 - Tree Diameter (medium) *
 - Problem Challenge 2 - Path with Maximum Sum (hard) *
+
+## 9. Pattern: Two Heaps
+ 
