@@ -82,4 +82,6 @@
 - Problem Challenge 2 - Path with Maximum Sum (hard) *
 
 ## 9. Pattern: Two Heaps
- 
+- Find the Median of a Number Stream (medium) *
+- Maximize Capital (hard) * 
+- Problem Challenge 1 - Next Interval (hard) 
