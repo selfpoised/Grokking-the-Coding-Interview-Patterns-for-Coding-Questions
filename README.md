@@ -92,4 +92,6 @@
 - Subsets With Duplicates (easy)
 - Permutations (medium) *
 - String Permutations by changing case (medium)
-- Balanced Parentheses (hard) *
+- Balanced Parentheses (hard) 
+- Unique Generalized Abbreviations (hard) * 
+- Problem Challenge 1 - Evaluate Expression (hard)
