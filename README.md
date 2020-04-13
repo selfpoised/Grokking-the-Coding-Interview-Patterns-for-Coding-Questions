@@ -97,3 +97,6 @@
 - Problem Challenge 1 - Evaluate Expression (hard) *
 - Problem Challenge 2 - Structurally Unique Binary Search Trees (hard) *
 - Problem Challenge 3 - Count of Structurally Unique Binary Search Trees (hard)
+
+## 11. Pattern: Modified Binary Search
+- Order-agnostic Binary Search (easy)
