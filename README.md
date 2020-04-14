@@ -100,3 +100,4 @@
 
 ## 11. Pattern: Modified Binary Search
 - Order-agnostic Binary Search (easy)
+- Ceiling of a Number (medium) *
