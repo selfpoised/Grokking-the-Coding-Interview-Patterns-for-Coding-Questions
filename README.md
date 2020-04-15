@@ -89,10 +89,10 @@
 
 ## 10. Pattern: Subsets
 - Subsets (easy)
-- Subsets With Duplicates (easy)
+- Subsets With Duplicates (easy) *
 - Permutations (medium) *
 - String Permutations by changing case (medium)
-- Balanced Parentheses (hard) 
+- Balanced Parentheses (hard) *
 - Unique Generalized Abbreviations (hard) * 
 - Problem Challenge 1 - Evaluate Expression (hard) *
 - Problem Challenge 2 - Structurally Unique Binary Search Trees (hard) *
@@ -101,3 +101,8 @@
 ## 11. Pattern: Modified Binary Search
 - Order-agnostic Binary Search (easy)
 - Ceiling of a Number (medium) *
+- Next Letter (medium)
+- Number Range (medium) *
+- Search in a Sorted Infinite Array (medium) *
+- Minimum Difference Element (medium)
+- Bitonic Array Maximum (easy)
