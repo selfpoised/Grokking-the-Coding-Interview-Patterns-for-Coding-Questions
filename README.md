@@ -106,3 +106,7 @@
 - Search in a Sorted Infinite Array (medium) *
 - Minimum Difference Element (medium)
 - Bitonic Array Maximum (easy)
+- Problem Challenge 1 - Search Bitonic Array (medium)
+- Problem Challenge 2 - Search in Rotated Array (medium) * 
+- Problem Challenge 3 - Rotation Count (medium) *
+
