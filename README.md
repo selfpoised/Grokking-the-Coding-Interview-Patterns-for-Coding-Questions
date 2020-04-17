@@ -110,3 +110,9 @@
 - Problem Challenge 2 - Search in Rotated Array (medium) * 
 - Problem Challenge 3 - Rotation Count (medium) *
 
+## Pattern: Bitwise XOR
+- Single Number (easy)
+- Two Single Numbers (medium) *
+- Complement of Base 10 Number (medium)
+
+

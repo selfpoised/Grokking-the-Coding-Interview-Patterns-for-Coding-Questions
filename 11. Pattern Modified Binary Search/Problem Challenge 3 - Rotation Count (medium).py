@@ -25,6 +25,35 @@ Output: 0
 Explanation: The array has been not been rotated.
 '''
 
+#mycode
+def count_rotations(arr):
+  # TODO: Write your code here
+  start, end = 0, len(arr) - 1
+  while start <= end:
+    mid = (start + end) //2
+
+    if mid > start and arr[mid-1] > arr[mid]:
+      return mid
+    if mid < start and arr[mid] > arr[mid+1]:
+      return mid + 1
+  
+    if arr[start] < arr[mid]:
+      start = mid + 1
+    else:
+      end = mid - 1
+
+  return 0
+
+    
+
+def main():
+  print(count_rotations([10, 15, 1, 3, 8]))
+  print(count_rotations([4, 5, 7, 9, 10, -1, 2]))
+  print(count_rotations([1, 3, 8, 10]))
+
+
+main()
+
 
 
 #answer
@@ -58,3 +87,13 @@ def main():
 main()
 
 
+
+'''
+Time complexity
+This algorithm will run in O(logN) most of the times, 
+but since we only skip two numbers in case of duplicates instead of the half of the numbers, 
+therefore the worst case time complexity will become O(N).
+
+Space complexity 
+The algorithm runs in constant space O(1).
+'''
