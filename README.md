@@ -125,3 +125,9 @@
 - Frequency Sort (medium) *
 - Kth Largest Number in a Stream (medium)
 - 'K' Closest Numbers (medium)
+- Maximum Distinct Elements (medium)
+- Sum of Elements (medium) 
+- Rearrange String (hard)
+- Problem Challenge 1 - Rearrange String K Distance Apart (hard) 
+- Problem Challenge 2 - Scheduling Tasks (hard) *
+- Problem Challenge 3 - Frequency Stack (hard) 
