@@ -131,3 +131,6 @@
 - Problem Challenge 1 - Rearrange String K Distance Apart (hard) 
 - Problem Challenge 2 - Scheduling Tasks (hard) *
 - Problem Challenge 3 - Frequency Stack (hard) 
+
+## 14. Pattern: K-way merge
+- Merge K Sorted Lists (medium)
