@@ -133,4 +133,6 @@
 - Problem Challenge 3 - Frequency Stack (hard) 
 
 ## 14. Pattern: K-way merge
-- Merge K Sorted Lists (medium)
+- Merge K Sorted Lists (medium) *
+- Kth Smallest Number in M Sorted Lists (Medium) * 
+- Kth Smallest Number in a Sorted Matrix (Hard)
