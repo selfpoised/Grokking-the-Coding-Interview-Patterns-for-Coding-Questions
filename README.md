@@ -137,3 +137,9 @@
 - Kth Smallest Number in M Sorted Lists (Medium) 
 - Kth Smallest Number in a Sorted Matrix (Hard) *
 - Smallest Number Range (Hard) *
+- Problem Challenge 1 - K Pairs with Largest Sums (Hard) 
+
+## 15. Pattern : 0/1 Knapsack (Dynamic Programming)
+- 0/1 Knapsack (medium)
+
+## 16. Pattern: Topological Sort (Graph)
