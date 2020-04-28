@@ -143,4 +143,6 @@
 - 0/1 Knapsack (medium)
 
 ## 16. Pattern: Topological Sort (Graph)
-- Topological Sort (medium)
+- Topological Sort (medium) *
+- Tasks Scheduling (medium)
+- Tasks Scheduling Order (medium)
