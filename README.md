@@ -146,3 +146,7 @@
 - Topological Sort (medium) *
 - Tasks Scheduling (medium)
 - Tasks Scheduling Order (medium)
+- All Tasks Scheduling Orders (hard) *
+- Alien Dictionary (hard) 
+- Problem Challenge 1 - Reconstructing a Sequence (hard) *
+- Problem Challenge 2 - Minimum Height Trees (hard) *
