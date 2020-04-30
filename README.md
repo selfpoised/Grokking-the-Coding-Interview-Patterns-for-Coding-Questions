@@ -141,6 +141,11 @@
 
 ## 15. Pattern : 0/1 Knapsack (Dynamic Programming)
 - 0/1 Knapsack (medium)
+- Equal Subset Sum Partition (medium) *
+- Subset Sum (medium)
+- Minimum Subset Sum Difference (hard) *
+- Problem Challenge 1 - Count of Subset Sum (hard) 
+
 
 ## 16. Pattern: Topological Sort (Graph)
 - Topological Sort (medium) *
