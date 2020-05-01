@@ -145,6 +145,7 @@
 - Subset Sum (medium)
 - Minimum Subset Sum Difference (hard) *
 - Problem Challenge 1 - Count of Subset Sum (hard) 
+- Problem Challenge 2 - Target Sum (hard) 
 
 
 ## 16. Pattern: Topological Sort (Graph)
@@ -155,3 +156,6 @@
 - Alien Dictionary (hard) 
 - Problem Challenge 1 - Reconstructing a Sequence (hard) *
 - Problem Challenge 2 - Minimum Height Trees (hard) *
+
+## 17. Miscellaneous
+- Kth Smallest Number (hard) *
